@@ -8,4 +8,4 @@ The challenge lies in efficiently transferring data to a humanoid model and accu
 
 Watch this video!!!
 
-[![SweetFactory](https://img.youtube.com/vi/p62KlpovS6U/0.jpg)](https://youtu.be/p62KlpovS6U)
+[![SweetFactory](https://img.youtube.com/vi/iK9Jq3kgUek/0.jpg)](https://youtu.be/iK9Jq3kgUek)
